@@ -4,34 +4,46 @@
 
 <br/>
 
-| **Domain** | **Core Technologies** | **Focus** |
-|---|---|---|
-| AI | LLMs, Graph Neural Networks, Transformers | Autonomous adversary emulation |
-| Cybersecurity | MITRE ATT&CK®, SOAR, Threat Modeling | Adaptive defense & orchestration |
-| Engineering | Python, PyTorch, LangChain, Streamlit | Full-stack ML architecture |
-| Infrastructure | Git, Docker, REST APIs, Cloud Deployments | Enterprise CI/CD & scaling |
+Cybersecurity engineer and AI researcher focused on autonomous threat intelligence, adversary emulation, and enterprise-grade security architecture.
 
 <br/>
 
-**[NEXUS – Autonomous Cyber-Warfare Simulator](https://github.com/vamsimuddada/NEXUS)**  
-An enterprise-grade breach-and-attack-simulation platform driven by a LLM reasoning engine and countered by a Tri-Brain GNN defense matrix.
+**Artificial Intelligence**
 
-🔗 **Live demo:** [nexus-vamsimuddada.streamlit.app](https://nexus-vamsimuddada.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=white)
+![Graph Neural Networks](https://img.shields.io/badge/GNN-0d1117?style=flat-square&logo=graphql&logoColor=white)
+
+**Cybersecurity**
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=flat-square&logo=target&logoColor=white)
+![SOAR](https://img.shields.io/badge/SOAR-0d1117?style=flat-square&logo=shield&logoColor=white)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-0d1117?style=flat-square&logo=lock&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-0d1117?style=flat-square&logo=elastic&logoColor=white)
+
+**Infrastructure**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=white)
 
 <br/>
 
-<div align="center">
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vamsimuddada&theme=dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&currStreakNum=00ff00&sideNums=00ff00)](https://git.io/streak-stats)
+**[NEXUS – Autonomous Cyber-Warfare Simulator](https://github.com/vamsimuddada/NEXUS)**
 
-</div>
+An enterprise-grade breach-and-attack simulation platform that replaces static red-team playbooks with an adaptive LLM-driven reasoning engine, countered by a Tri-Brain GNN defense matrix.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d1117?style=flat-square&logo=streamlit&logoColor=white)](https://nexus-vamsimuddada.streamlit.app/)
+[![Source](https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/vamsimuddada/NEXUS)
+
+---
 
 <br/>
 
-<p align="left">
-  <a href="https://linkedin.com/in/vamsi-muddada-22aa622b9"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:vamsimuddada633@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://nexus-vamsimuddada.streamlit.app/"><img src="https://img.shields.io/badge/NEXUS_Live_Demo-ff4b4b?style=flat-square&logo=streamlit&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsi-muddada-22aa622b9)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:vamsimuddada633@gmail.com)
