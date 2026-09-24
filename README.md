@@ -4,10 +4,7 @@
 
 <br/>
 
-**VAMSI MUDDADA** — Cybersecurity & AI Engineer  
 Building autonomous threat-intelligence systems that adapt in real time.
-
-<br/>
 
 | **Domain** | **Core Technologies** | **Focus** |
 |---|---|---|
@@ -26,9 +23,9 @@ An enterprise-grade breach-and-attack-simulation platform driven by a LLM reason
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamsimuddada&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsimuddada&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00" height="160"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vamsimuddada&theme=dark&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&currStreakNum=00ff00&sideNums=00ff00)](https://git.io/streak-stats)
+
 </div>
 
 <br/>
