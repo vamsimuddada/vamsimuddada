@@ -4,8 +4,6 @@
 
 <br/>
 
-Building autonomous threat-intelligence systems that adapt in real time.
-
 | **Domain** | **Core Technologies** | **Focus** |
 |---|---|---|
 | AI | LLMs, Graph Neural Networks, Transformers | Autonomous adversary emulation |
@@ -31,9 +29,9 @@ An enterprise-grade breach-and-attack-simulation platform driven by a LLM reason
 <br/>
 
 <p align="left">
-  <a href="https://linkedin.com/in/vamsi-muddada-22aa622b9"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00ff00" /></a>
+  <a href="https://linkedin.com/in/vamsi-muddada-22aa622b9"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:vamsimuddada633@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=00ff00" /></a>
+  <a href="mailto:vamsimuddada633@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://nexus-vamsimuddada.streamlit.app/"><img src="https://img.shields.io/badge/NEXUS_Live_Demo-000000?style=flat-square&logo=streamlit&logoColor=00ff00" /></a>
+  <a href="https://nexus-vamsimuddada.streamlit.app/"><img src="https://img.shields.io/badge/NEXUS_Live_Demo-ff4b4b?style=flat-square&logo=streamlit&logoColor=white" /></a>
 </p>
