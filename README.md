@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/profile_banner.png" alt="Vamsi Muddada" width="100%">
+  <img src="assets/images/banner.png" alt="Vamsi Muddada" width="100%">
 </div>
 
 <br/>
